@@ -1,0 +1,56 @@
+﻿  skybox.cpp
+C:\Users\Lenovo\Desktop\eng\LW4\packages\Assimp.3.0.0\build\native\include\assimp\quaternion.inl(207,15): warning C4244: =: преобразование "double" в "TReal", возможна потеря данных
+          with
+          [
+              TReal=float
+          ]
+C:\Users\Lenovo\Desktop\eng\LW4\packages\Assimp.3.0.0\build\native\include\assimp\quaternion.inl(186,1): message : во время компиляции функции-члена класс шаблон "void aiQuaterniont<float>::Interpolate(aiQuaterniont<float> &,const aiQuaterniont<float> &,const aiQuaterniont<float> &,TReal)"
+          with
+          [
+              TReal=float
+          ]
+C:\Users\Lenovo\Desktop\eng\LW4\packages\Assimp.3.0.0\build\native\include\assimp\anim.h(435,28): message : выполняется компиляция ссылки на экземпляр шаблон функции "void aiQuaterniont<float>::Interpolate(aiQuaterniont<float> &,const aiQuaterniont<float> &,const aiQuaterniont<float> &,TReal)"
+          with
+          [
+              TReal=float
+          ]
+C:\Users\Lenovo\Desktop\eng\LW4\packages\Assimp.3.0.0\build\native\include\assimp\anim.h(107,24): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "aiQuaterniont<float>"
+C:\Users\Lenovo\Desktop\eng\LW4\packages\Assimp.3.0.0\build\native\include\assimp\quaternion.inl(208,14): warning C4244: =: преобразование "double" в "TReal", возможна потеря данных
+          with
+          [
+              TReal=float
+          ]
+C:\Users\Lenovo\Desktop\eng\LW4\packages\Assimp.3.0.0\build\native\include\assimp\quaternion.inl(209,61): warning C4244: =: преобразование "double" в "TReal", возможна потеря данных
+          with
+          [
+              TReal=float
+          ]
+C:\Users\Lenovo\Desktop\eng\LW4\packages\Assimp.3.0.0\build\native\include\assimp\quaternion.inl(210,33): warning C4244: =: преобразование "double" в "TReal", возможна потеря данных
+          with
+          [
+              TReal=float
+          ]
+C:\Users\Lenovo\Desktop\eng\LW4\packages\Assimp.3.0.0\build\native\include\assimp\vector3.inl(93,13): warning C4244: return: преобразование "double" в "TReal", возможна потеря данных
+          with
+          [
+              TReal=float
+          ]
+C:\Users\Lenovo\Desktop\eng\LW4\packages\Assimp.3.0.0\build\native\include\assimp\vector3.inl(92,57): message : во время компиляции функции-члена класс шаблон "TReal aiVector3t<TReal>::Length(void) const"
+          with
+          [
+              TReal=float
+          ]
+C:\Users\Lenovo\Desktop\eng\LW4\packages\Assimp.3.0.0\build\native\include\assimp\vector3.inl(98,8): message : выполняется компиляция ссылки на экземпляр шаблон функции "TReal aiVector3t<TReal>::Length(void) const"
+          with
+          [
+              TReal=float
+          ]
+C:\Users\Lenovo\Desktop\eng\LW4\packages\Assimp.3.0.0\build\native\include\assimp\vector3.inl(142,91): message : во время компиляции функции-члена класс шаблон "bool aiVector3t<float>::operator ==(const aiVector3t<float> &) const"
+C:\Users\Lenovo\Desktop\eng\LW4\packages\Assimp.3.0.0\build\native\include\assimp\anim.h(82,3): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool aiVector3t<float>::operator ==(const aiVector3t<float> &) const"
+C:\Users\Lenovo\Desktop\eng\LW4\packages\Assimp.3.0.0\build\native\include\assimp\types.h(150,22): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "aiVector3t<float>"
+  Создание кода
+  2 of 504 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  task25.vcxproj -> C:\Users\Lenovo\Desktop\eng\LW4\lw-4\x64\Release\task25.exe

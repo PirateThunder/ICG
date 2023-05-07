@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Lenovo\Desktop\eng\лаба2\урок7\урок7\урок7\main.cpp(125,37): warning C4267: =: преобразование из "size_t" в "GLint"; возможна потеря данных
+  урок7.vcxproj -> C:\Users\Lenovo\Desktop\eng\лаба2\урок7\урок7\x64\Debug\урок7.exe
